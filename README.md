@@ -1,4 +1,4 @@
-# Spotify-Sales-Dashboard
+# Shopify-Sales-Dashboard
 Project Title: Shopify Sales Analytics Dashboard – Power BI
 Tools Used: Power BI, DAX, Data Modeling
 
